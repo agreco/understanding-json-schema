@@ -1,0 +1,18 @@
+name wrapfig
+category Package
+revision 22048
+shortdesc Produces figures which text can flow around.
+longdesc Allows figures or tables to have text wrapped around them. Does
+longdesc not work in combination with list environments, but can be used
+longdesc in a parbox or minipage, and in twocolumn format. Supports the
+longdesc float package.
+containersize 9344
+containermd5 2fc99fa7edb78f8b6915a94ff3113502
+doccontainersize 337900
+doccontainermd5 c3faa14e675b9d3f5712fe1ced07cb53
+runfiles size=7
+ texmf-dist/tex/latex/wrapfig/wrapfig.sty
+catalogue-ctan /macros/latex/contrib/wrapfig
+catalogue-date 2011-04-09 12:56:30 +0200
+catalogue-license lppl
+catalogue-version 3.6

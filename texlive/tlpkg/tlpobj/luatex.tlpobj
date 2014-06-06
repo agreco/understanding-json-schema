@@ -1,0 +1,28 @@
+name luatex
+category TLCore
+revision 33312
+shortdesc The LuaTeX engine.
+longdesc LuaTeX is an extended version of pdfTeX using Lua as an
+longdesc embedded scripting language. The LuaTeX project's main
+longdesc objective is to provide an open and configurable variant of TeX
+longdesc while at the same time offering downward compatibility. LuaTeX
+longdesc uses Unicode (as UTF-8) as its default input encoding, and is
+longdesc able to use modern (OpenType) fonts (for both text and
+longdesc mathematics). It should be noted that LuaTeX is still under
+longdesc development; its specification has been declared stable, but
+longdesc absolute stability may not in practice be assumed.
+depend luatex.ARCH
+execute AddFormat   name=luatex    engine=luatex patterns=language.def,language.dat.lua   options="luatex.ini"
+execute AddFormat   name=dviluatex engine=luatex patterns=language.def,language.dat.lua   options="dviluatex.ini"
+containersize 12724
+containermd5 4fe0a60b8456ea13056a7c5805104df8
+doccontainersize 991396
+doccontainermd5 24d5884cfe590efec285f08f41d2734b
+runfiles size=37
+ texmf-dist/tex/generic/config/luatex-unicode-letters.tex
+ texmf-dist/tex/generic/config/luatexiniconfig.tex
+ texmf-dist/web2c/texmfcnf.lua
+catalogue-ctan /systems/luatex/base
+catalogue-date 2014-02-26 23:03:13 +0100
+catalogue-license gpl2
+catalogue-version 0.70.1

@@ -1,0 +1,30 @@
+name xkeyval
+category Package
+revision 27995
+shortdesc Extension of the keyval package.
+longdesc This package is an extension of the keyval package and offers
+longdesc additional macros for setting keys and declaring and setting
+longdesc class or package options. The package allows the programmer to
+longdesc specify a prefix to the name of the macros it defines for keys,
+longdesc and to define families of key definitions; these all help use
+longdesc in documents where several packages define their own sets of
+longdesc keys.
+containersize 8840
+containermd5 2bcb9d2fc615f81323df5fbccab399a5
+doccontainersize 384296
+doccontainermd5 577ae9fc618a7ed5aedf0f9cc3a3e281
+srccontainersize 47260
+srccontainermd5 ddfaf9a4d23adfd946dee4521547f3da
+runfiles size=16
+ texmf-dist/tex/generic/xkeyval/keyval.tex
+ texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+ texmf-dist/tex/generic/xkeyval/xkeyval.tex
+ texmf-dist/tex/generic/xkeyval/xkvtxhdr.tex
+ texmf-dist/tex/latex/xkeyval/pst-xkey.sty
+ texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ texmf-dist/tex/latex/xkeyval/xkvltxp.sty
+ texmf-dist/tex/latex/xkeyval/xkvview.sty
+catalogue-ctan /macros/latex/contrib/xkeyval
+catalogue-date 2012-01-23 12:21:58 +0100
+catalogue-license lppl
+catalogue-version 2.6a

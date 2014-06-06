@@ -1,0 +1,53 @@
+name l3kernel
+category Package
+revision 32599
+shortdesc LaTeX3 programming conventions.
+longdesc The l3kernel bundle provides an implementation of the LaTeX3
+longdesc programmers' interface, as a set of packages that run under
+longdesc LaTeX 2e. The interface provides the foundation on which the
+longdesc LaTeX3 kernel and other future code are built: it is an API for
+longdesc TeX programmers. The packages are set up so that the LaTeX3
+longdesc conventions can be used with regular LaTeX 2e packages. All the
+longdesc files of the bundle are also available in the project's
+longdesc Subversion (SVN) repository
+containersize 84960
+containermd5 342c00e4ffb4821830e291ef9259ca83
+doccontainersize 2795204
+doccontainermd5 34cdaaceabb0788039212ee4bf40ea9d
+srccontainersize 324016
+srccontainermd5 91d7becdd80cae1417c5bc0bce135559
+runfiles size=178
+ texmf-dist/makeindex/l3kernel/l3doc.ist
+ texmf-dist/tex/latex/l3kernel/expl3.sty
+ texmf-dist/tex/latex/l3kernel/l3basics.sty
+ texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+ texmf-dist/tex/latex/l3kernel/l3box.sty
+ texmf-dist/tex/latex/l3kernel/l3candidates.sty
+ texmf-dist/tex/latex/l3kernel/l3clist.sty
+ texmf-dist/tex/latex/l3kernel/l3coffins.sty
+ texmf-dist/tex/latex/l3kernel/l3color.sty
+ texmf-dist/tex/latex/l3kernel/l3doc.cls
+ texmf-dist/tex/latex/l3kernel/l3docstrip.tex
+ texmf-dist/tex/latex/l3kernel/l3dvipdfmx.def
+ texmf-dist/tex/latex/l3kernel/l3dvips.def
+ texmf-dist/tex/latex/l3kernel/l3expan.sty
+ texmf-dist/tex/latex/l3kernel/l3file.sty
+ texmf-dist/tex/latex/l3kernel/l3fp.sty
+ texmf-dist/tex/latex/l3kernel/l3int.sty
+ texmf-dist/tex/latex/l3kernel/l3keys.sty
+ texmf-dist/tex/latex/l3kernel/l3luatex.sty
+ texmf-dist/tex/latex/l3kernel/l3msg.sty
+ texmf-dist/tex/latex/l3kernel/l3names.sty
+ texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+ texmf-dist/tex/latex/l3kernel/l3prg.sty
+ texmf-dist/tex/latex/l3kernel/l3prop.sty
+ texmf-dist/tex/latex/l3kernel/l3quark.sty
+ texmf-dist/tex/latex/l3kernel/l3seq.sty
+ texmf-dist/tex/latex/l3kernel/l3skip.sty
+ texmf-dist/tex/latex/l3kernel/l3tl.sty
+ texmf-dist/tex/latex/l3kernel/l3token.sty
+ texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+catalogue-ctan /macros/latex/contrib/l3kernel
+catalogue-date 2014-01-07 19:05:28 +0100
+catalogue-license lppl1.3
+catalogue-version SVN 4646

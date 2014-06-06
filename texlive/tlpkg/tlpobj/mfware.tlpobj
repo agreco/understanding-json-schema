@@ -1,0 +1,20 @@
+name mfware
+category TLCore
+revision 32865
+shortdesc Supporting tools for use with Metafont.
+longdesc A collection of programs (as web source) for processing the
+longdesc output of Metafont.
+depend mfware.ARCH
+containersize 4536
+containermd5 cf181e0373b6d4cc5400130714b4f912
+doccontainersize 23840
+doccontainermd5 caf348ac1904f18b1004cf16a26a1986
+runfiles size=6
+ texmf-dist/mft/base/README
+ texmf-dist/mft/base/cmbase.mft
+ texmf-dist/mft/base/mplain.mft
+ texmf-dist/mft/base/pl.mft
+ texmf-dist/mft/base/plain.mft
+catalogue-ctan /systems/knuth/dist/mfware
+catalogue-date 2014-01-19 09:33:29 +0100
+catalogue-license knuth

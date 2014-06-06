@@ -1,0 +1,25 @@
+name mdframed
+category Package
+revision 31075
+shortdesc Framed environments that can split at page boundaries.
+longdesc The package develops the facilities of framed in providing
+longdesc breakable framed and coloured boxes. The user may instruct the
+longdesc package to perform its operations using default LaTeX commands,
+longdesc PStricks or TikZ.
+containersize 21340
+containermd5 f45c858d8d6dee289ea7e14540b2c7e8
+doccontainersize 1396104
+doccontainermd5 681654e5c261307c135c051beab1d23b
+srccontainersize 41792
+srccontainermd5 50faa777054531bd3c46bf9ee77dd61f
+runfiles size=54
+ texmf-dist/tex/latex/mdframed/ltxmdf.cls
+ texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+ texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+ texmf-dist/tex/latex/mdframed/md-frame-2.mdf
+ texmf-dist/tex/latex/mdframed/md-frame-3.mdf
+ texmf-dist/tex/latex/mdframed/mdframed.sty
+catalogue-ctan /macros/latex/contrib/mdframed
+catalogue-date 2013-07-02 00:01:05 +0200
+catalogue-license lppl
+catalogue-version 1.9b

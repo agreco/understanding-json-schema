@@ -1,0 +1,28 @@
+name ms
+category Package
+revision 29849
+shortdesc Various LaTeX packages by Martin Schroder.
+longdesc A bundle of LaTeX packages by Martin Schroder; the collection
+longdesc comprises: - count1to, make use of fixed TeX counters; -
+longdesc everysel, set commands to execute every time a font is
+longdesc selected; - everyshi, set commands to execute whenever a page
+longdesc is shipped out; - multitoc, typeset the table of contents in
+longdesc multiple columns; - prelim2e, mark typeset pages as
+longdesc preliminary; and - ragged2e, typeset ragged text and allow
+longdesc hyphenation.
+containersize 5884
+containermd5 17b8dfad26c2a8366875b8a17c91fda4
+doccontainersize 2070332
+doccontainermd5 70ab47c69993bdc8b33868a6a7e0b4f0
+srccontainersize 26856
+srccontainermd5 fd558c27b924712fbd3dea67cdb545d2
+runfiles size=12
+ texmf-dist/tex/latex/ms/count1to.sty
+ texmf-dist/tex/latex/ms/everysel.sty
+ texmf-dist/tex/latex/ms/everyshi.sty
+ texmf-dist/tex/latex/ms/multitoc.sty
+ texmf-dist/tex/latex/ms/prelim2e.sty
+ texmf-dist/tex/latex/ms/ragged2e.sty
+catalogue-ctan /macros/latex/contrib/ms
+catalogue-date 2012-05-24 17:58:39 +0200
+catalogue-license lppl

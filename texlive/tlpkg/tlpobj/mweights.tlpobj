@@ -1,0 +1,20 @@
+name mweights
+category Package
+revision 31268
+shortdesc Support for multiple-weight font packages.
+longdesc Many font families available for use with LaTeX are available
+longdesc at multiple weights. Many Type 1-oriented support packages for
+longdesc such fonts re-define the standard \mddefault or \bfdefault
+longdesc macros. This can create difficulties if the weight desired for
+longdesc one font family isn't available for another font family, or if
+longdesc it differs from the weight desired for another font family. The
+longdesc package provides a solution to these difficulties.
+containersize 1140
+containermd5 8ab01abe5c4b70e53407c8382ce75903
+doccontainersize 1252
+doccontainermd5 edea524a7e028698ee209ee9b5389bf6
+runfiles size=1
+ texmf-dist/tex/latex/mweights/mweights.sty
+catalogue-ctan /macros/latex/contrib/mweights
+catalogue-date 2013-07-21 22:07:48 +0200
+catalogue-license lppl

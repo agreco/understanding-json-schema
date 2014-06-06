@@ -1,0 +1,10 @@
+name metafont.x86_64-linux
+category Package
+revision 30204
+shortdesc x86_64-linux files of metafont
+containersize 192956
+containermd5 b7d8679d23ca6f61cf9d706e2a4ff025
+binfiles arch=x86_64-linux size=168
+ bin/x86_64-linux/inimf
+ bin/x86_64-linux/mf
+ bin/x86_64-linux/mf-nowin

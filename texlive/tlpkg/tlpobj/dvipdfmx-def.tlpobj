@@ -1,0 +1,15 @@
+name dvipdfmx-def
+category Package
+revision 33409
+shortdesc Configuration file for dvipdfmx graphics.
+relocated 1
+longdesc This is the graphics driver for use when output is to be
+longdesc processed by dvipdfmx.
+containersize 2932
+containermd5 9e0c96636d79c843df51ace39786d77e
+runfiles size=2
+ texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+catalogue-ctan /macros/latex/contrib/dvipdfmx-def/dvipdfmx.def
+catalogue-date 2014-04-08 07:26:38 +0200
+catalogue-license lppl
+catalogue-version 3.6

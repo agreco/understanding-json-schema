@@ -1,0 +1,33 @@
+name l3packages
+category Package
+revision 32537
+shortdesc High-level LaTeX3 concepts.
+longdesc The bundle holds prototype implementations of concepts for a
+longdesc LaTeX designer interface, to be used with the experimental
+longdesc LaTeX kernel as programming tools and kernel support. Packages
+longdesc provided in this release are: - l3keys2e, which makes the
+longdesc facilities of the kernel module l3keys available for use by
+longdesc LaTeX 2e packages; - xfrac, which provides flexible split-level
+longdesc fractions; - xparse, which provides a high-level interface for
+longdesc declaring document commands; and - xtemplate, which provides a
+longdesc means of defining generic functions using a key-value syntax.
+longdesc All the files of the bundle are also available in the
+longdesc Subversion (SVN) repository of the LaTeX3 Project. The bundle
+longdesc on CTAN is based on a snapshot of the SVN repository on; it
+longdesc should be used with copies of the l3kernel at SVN version 2544
+longdesc or later.
+containersize 16840
+containermd5 35b46ac088a247fd65e207401bc6d164
+doccontainersize 1772620
+doccontainermd5 aaa330ea1584bbd711c55391937db55c
+srccontainersize 52492
+srccontainermd5 74aed99cdedc3bd958613ecaaec81868
+runfiles size=33
+ texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+ texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
+ texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+catalogue-ctan /macros/latex/contrib/l3packages
+catalogue-date 2014-01-01 10:11:48 +0100
+catalogue-license lppl1.3
+catalogue-version SVN 4634

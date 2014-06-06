@@ -1,0 +1,260 @@
+Automated TeX Live installation using profile: ../texlive.localized.profile
+Loading http://ftp.math.purdue.edu/mirrors/ctan.org/systems/texlive/tlnet/tlpkg/texlive.tlpdb
+Installing TeX Live 2013 from: http://ftp.math.purdue.edu/mirrors/ctan.org/systems/texlive/tlnet
+Platform: x86_64-linux => 'x86_64 with GNU/Linux'
+Distribution: net  (downloading)
+Using URL: http://ftp.math.purdue.edu/mirrors/ctan.org/systems/texlive/tlnet
+Directory for temporary files: /tmp
+Installer revision: 31659
+Database revision: 33469
+Settings:
+  TEXDIR: "/home/travis/build/spacetelescope/understanding-json-schema/texlive"
+  TEXMFCONFIG: "~/.texlive2013/texmf-config"
+  TEXMFHOME: "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf"
+  TEXMFLOCAL: "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-local"
+  TEXMFSYSCONFIG: "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-config"
+  TEXMFSYSVAR: "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var"
+  TEXMFVAR: "~/.texlive2013/texmf-var"
+  binary_alpha-linux: "0"
+  binary_amd64-freebsd: "0"
+  binary_amd64-kfreebsd: "0"
+  binary_amd64-netbsd: "0"
+  binary_armel-linux: "0"
+  binary_armhf-linux: "0"
+  binary_i386-cygwin: "0"
+  binary_i386-freebsd: "0"
+  binary_i386-kfreebsd: "0"
+  binary_i386-linux: "0"
+  binary_i386-netbsd: "0"
+  binary_i386-solaris: "0"
+  binary_mips-irix: "0"
+  binary_mipsel-linux: "0"
+  binary_powerpc-linux: "0"
+  binary_sparc-solaris: "0"
+  binary_universal-darwin: "0"
+  binary_win32: "0"
+  binary_x86_64-darwin: "0"
+  binary_x86_64-linux: "1"
+  binary_x86_64-solaris: "0"
+  collection-basic: "1"
+  collection-bibtexextra: "0"
+  collection-binextra: "0"
+  collection-context: "0"
+  collection-fontsextra: "0"
+  collection-fontsrecommended: "0"
+  collection-fontutils: "0"
+  collection-formatsextra: "0"
+  collection-games: "0"
+  collection-genericextra: "0"
+  collection-genericrecommended: "0"
+  collection-htmlxml: "0"
+  collection-humanities: "0"
+  collection-langafrican: "0"
+  collection-langarabic: "0"
+  collection-langcjk: "0"
+  collection-langcyrillic: "0"
+  collection-langczechslovak: "0"
+  collection-langenglish: "0"
+  collection-langeuropean: "0"
+  collection-langfrench: "0"
+  collection-langgerman: "0"
+  collection-langgreek: "0"
+  collection-langindic: "0"
+  collection-langitalian: "0"
+  collection-langother: "0"
+  collection-langpolish: "0"
+  collection-langportuguese: "0"
+  collection-langspanish: "0"
+  collection-latex: "1"
+  collection-latexextra: "0"
+  collection-latexrecommended: "0"
+  collection-luatex: "0"
+  collection-mathextra: "0"
+  collection-metapost: "0"
+  collection-music: "0"
+  collection-omega: "0"
+  collection-pictures: "0"
+  collection-plainextra: "0"
+  collection-pstricks: "0"
+  collection-publishers: "0"
+  collection-science: "0"
+  collection-texworks: "0"
+  collection-wintools: "0"
+  collection-xetex: "0"
+  doc_splitting_supported: "1"
+  in_place: "0"
+  inst_platform: "x86_64-linux"
+  n_collections_available: "45"
+  n_collections_selected: "44"
+  n_systems_available: "21"
+  n_systems_selected: "1"
+  option_adjustrepo: "1"
+  option_autobackup: "1"
+  option_backupdir: "tlpkg/backups"
+  option_desktop_integration: "1"
+  option_doc: "0"
+  option_file_assocs: "1"
+  option_fmt: "0"
+  option_letter: "1"
+  option_menu_integration: "1"
+  option_path: "0"
+  option_post_code: "1"
+  option_src: "0"
+  option_sys_bin: "/usr/local/bin"
+  option_sys_info: "/usr/local/share/info"
+  option_sys_man: "/usr/local/share/man"
+  option_w32_multi_user: "0"
+  option_write18_restricted: "1"
+  portable: "0"
+  selected_scheme: "scheme-basic"
+  src_splitting_supported: "1"
+  this_platform: "x86_64-linux"
+  total_size: "0"
+Installing to: /home/travis/build/spacetelescope/understanding-json-schema/texlive
+Installing [01/84, time/total: ??:??/??:??]: ae [56k]
+Installing [02/84, time/total: 00:00/00:00]: amscls [33k]
+Installing [03/84, time/total: 00:00/00:00]: amsfonts [3542k]
+Installing [04/84, time/total: 00:01/00:03]: amsmath [29k]
+Installing [05/84, time/total: 00:01/00:03]: babel [23k]
+Installing [06/84, time/total: 00:01/00:03]: babel-english [3k]
+Installing [07/84, time/total: 00:02/00:06]: babelbib [26k]
+Installing [08/84, time/total: 00:02/00:06]: bibtex [13k]
+Installing [09/84, time/total: 00:02/00:06]: bibtex.x86_64-linux [69k]
+Installing [10/84, time/total: 00:02/00:06]: carlisle [12k]
+Installing [11/84, time/total: 00:02/00:05]: cm [234k]
+Installing [12/84, time/total: 00:02/00:05]: collection-basic [1k]
+Installing [13/84, time/total: 00:02/00:05]: collection-latex [1k]
+Installing [14/84, time/total: 00:03/00:08]: colortbl [4k]
+Installing [15/84, time/total: 00:03/00:08]: dvipdfmx [27k]
+Installing [16/84, time/total: 00:03/00:08]: dvipdfmx-def [3k]
+Installing [17/84, time/total: 00:03/00:08]: dvipdfmx.x86_64-linux [329k]
+Installing [18/84, time/total: 00:03/00:07]: dvips [136k]
+Installing [19/84, time/total: 00:04/00:10]: dvips.x86_64-linux [137k]
+Installing [20/84, time/total: 00:04/00:09]: enctex [24k]
+Installing [21/84, time/total: 00:04/00:09]: etex [12k]
+Installing [22/84, time/total: 00:04/00:09]: etex-pkg [5k]
+Installing [23/84, time/total: 00:04/00:09]: fancyhdr [9k]
+Installing [24/84, time/total: 00:04/00:09]: fix2col [3k]
+Installing [25/84, time/total: 00:04/00:09]: geometry [9k]
+Installing [26/84, time/total: 00:04/00:09]: glyphlist [25k]
+Installing [27/84, time/total: 00:04/00:09]: graphics [13k]
+Installing [28/84, time/total: 00:05/00:11]: gsftopk [4k]
+Installing [29/84, time/total: 00:05/00:11]: gsftopk.x86_64-linux [38k]
+Installing [30/84, time/total: 00:05/00:11]: hyperref [105k]
+Installing [31/84, time/total: 00:05/00:11]: hyph-utf8 [999k]
+Installing [32/84, time/total: 00:06/00:11]: hyphen-base [22k]
+Installing [33/84, time/total: 00:06/00:11]: ifluatex [3k]
+Installing [34/84, time/total: 00:06/00:11]: ifxetex [2k]
+Installing [35/84, time/total: 00:06/00:11]: knuth-lib [10k]
+Installing [36/84, time/total: 00:06/00:11]: knuth-local [23k]
+Installing [37/84, time/total: 00:06/00:11]: kpathsea [30k]
+Installing [38/84, time/total: 00:06/00:11]: kpathsea.x86_64-linux [45k]
+Installing [39/84, time/total: 00:06/00:11]: latex [146k]
+Installing [40/84, time/total: 00:07/00:12]: latex-bin [1k]
+Installing [41/84, time/total: 00:07/00:12]: latex-bin.x86_64-linux [1k]
+Installing [42/84, time/total: 00:07/00:12]: latex-fonts [18k]
+Installing [43/84, time/total: 00:07/00:12]: latexconfig [8k]
+Installing [44/84, time/total: 00:07/00:12]: ltxmisc [16k]
+Installing [45/84, time/total: 00:07/00:12]: lua-alt-getopt [2k]
+Installing [46/84, time/total: 00:07/00:12]: luatex [13k]
+Installing [47/84, time/total: 00:07/00:12]: luatex.x86_64-linux [2326k]
+Installing [48/84, time/total: 00:08/00:10]: makeindex [5k]
+Installing [49/84, time/total: 00:08/00:10]: makeindex.x86_64-linux [46k]
+Installing [50/84, time/total: 00:09/00:11]: metafont [36k]
+Installing [51/84, time/total: 00:09/00:11]: metafont.x86_64-linux [189k]
+Installing [52/84, time/total: 00:09/00:11]: mflogo [21k]
+Installing [53/84, time/total: 00:09/00:11]: mfnfss [2k]
+Installing [54/84, time/total: 00:09/00:11]: mfware [5k]
+Installing [55/84, time/total: 00:09/00:11]: mfware.x86_64-linux [116k]
+Installing [56/84, time/total: 00:10/00:12]: mptopdf [38k]
+Installing [57/84, time/total: 00:10/00:12]: mptopdf.x86_64-linux [1k]
+Installing [58/84, time/total: 00:10/00:12]: natbib [17k]
+Installing [59/84, time/total: 00:10/00:12]: oberdiek [222k]
+Installing [60/84, time/total: 00:10/00:12]: pdftex [132k]
+Installing [61/84, time/total: 00:11/00:13]: pdftex-def [14k]
+Installing [62/84, time/total: 00:11/00:13]: pdftex.x86_64-linux [629k]
+Installing [63/84, time/total: 00:11/00:12]: plain [42k]
+Installing [64/84, time/total: 00:11/00:12]: pslatex [6k]
+Installing [65/84, time/total: 00:11/00:12]: psnfss [12k]
+Installing [66/84, time/total: 00:12/00:13]: pspicture [2k]
+Installing [67/84, time/total: 00:12/00:13]: tetex [50k]
+Installing [68/84, time/total: 00:12/00:13]: tetex.x86_64-linux [1k]
+Installing [69/84, time/total: 00:12/00:13]: tex [1k]
+Installing [70/84, time/total: 00:12/00:13]: tex.x86_64-linux [168k]
+Installing [71/84, time/total: 00:12/00:13]: texconfig [13k]
+Installing [72/84, time/total: 00:12/00:13]: texconfig.x86_64-linux [1k]
+Installing [73/84, time/total: 00:12/00:13]: texlive-common [1k]
+Installing [74/84, time/total: 00:13/00:14]: texlive-docindex [108k]
+Installing [75/84, time/total: 00:13/00:14]: texlive-en [1k]
+Installing [76/84, time/total: 00:13/00:14]: texlive-msg-translations [105k]
+Installing [77/84, time/total: 00:13/00:14]: texlive-scripts [61k]
+Installing [78/84, time/total: 00:13/00:13]: texlive-scripts.x86_64-linux [1k]
+Installing [79/84, time/total: 00:13/00:13]: texlive.infra [205k]
+Installing [80/84, time/total: 00:14/00:14]: texlive.infra.x86_64-linux [81k]
+Installing [81/84, time/total: 00:14/00:14]: tools [37k]
+Installing [82/84, time/total: 00:14/00:14]: url [6k]
+Installing [83/84, time/total: 00:14/00:14]: xdvi [7k]
+Installing [84/84, time/total: 00:14/00:14]: xdvi.x86_64-linux [467k]
+Time used for installing the packages: 00:15
+running mktexlsr /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist ...
+writing fmtutil.cnf to /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/web2c/fmtutil.cnf
+writing updmap.cfg to /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist/web2c/updmap.cfg
+writing language.dat to /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/tex/generic/config/language.dat
+writing language.def to /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/tex/generic/config/language.def
+writing language.dat.lua to /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/tex/generic/config/language.dat.lua
+running mktexlsr /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-config /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist ...
+running updmap-sys...updmap is using the following updmap.cfg files (in precedence order):
+  /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist/web2c/updmap.cfg
+updmap is using the following updmap.cfg file for writing changes:
+  /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-config/web2c/updmap.cfg
+dvips output dir: "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/fonts/map/dvips/updmap"
+pdftex output dir: "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/fonts/map/pdftex/updmap"
+dvipdfmx output dir: "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/fonts/map/dvipdfmx/updmap"
+
+updmap is creating new map files
+using the following configuration:
+  LW35 font names                  : URWkb (/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist/web2c/updmap.cfg)
+  prefer outlines                  : true (/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist/web2c/updmap.cfg)
+  texhash enabled                  : false
+  download standard fonts (dvips)  : true (/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist/web2c/updmap.cfg)
+  download standard fonts (pdftex) : true (/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist/web2c/updmap.cfg)
+  kanjiEmbed replacement string    : noEmbed (/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-dist/web2c/updmap.cfg)
+  kanjiVariant replacement string  :  (default)
+  create a mapfile for pxdvi       : false (default)
+
+Scanning for LW35 support files  [  3 files]
+Scanning for MixedMap entries    [  7 files]
+Scanning for KanjiMap entries    [  0 files]
+Scanning for Map entries         [  6 files]
+
+Generating output for dvipdfmx...
+Generating output for ps2pk...
+Generating output for dvips...
+Generating output for pdftex...
+
+Files generated:
+  /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/fonts/map/dvips/updmap:
+       15884 2014-06-06 19:08:34 builtin35.map
+       21357 2014-06-06 19:08:34 download35.map
+       23984 2014-06-06 19:08:34 psfonts_pk.map
+       28071 2014-06-06 19:08:34 psfonts_t1.map
+       28066 2014-06-06 19:08:34 ps2pk.map
+          14 2014-06-06 19:08:34 psfonts.map -> psfonts_t1.map
+  /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/fonts/map/pdftex/updmap:
+       28073 2014-06-06 19:08:34 pdftex_dl14.map
+       26408 2014-06-06 19:08:34 pdftex_ndl14.map
+          15 2014-06-06 19:08:34 pdftex.map -> pdftex_dl14.map
+  /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/fonts/map/dvipdfmx/updmap:
+         407 2014-06-06 19:08:34 kanjix.map
+
+Transcript written on "/home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var/web2c/updmap.log".
+done
+setting default paper size to letter
+/home/travis/build/spacetelescope/understanding-json-schema/texlive/bin/x86_64-linux/tlmgr: setting paper size for dvipdfmx to letter.
+/home/travis/build/spacetelescope/understanding-json-schema/texlive/bin/x86_64-linux/tlmgr: setting paper size for dvips to letter.
+/home/travis/build/spacetelescope/understanding-json-schema/texlive/bin/x86_64-linux/tlmgr: setting paper size for pdftex to letter.
+/home/travis/build/spacetelescope/understanding-json-schema/texlive/bin/x86_64-linux/tlmgr: setting paper size for xdvi to letter.
+re-running mktexlsr /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-var /home/travis/build/spacetelescope/understanding-json-schema/texlive/texmf-config...
+running package-specific postactions
+postaction install script for dvipdfmx: perl /home/travis/build/spacetelescope/understanding-json-schema/texlive/tlpkg/tlpostcode/dvipdfmx.pl
+finished with package-specific postactions

@@ -1,0 +1,34 @@
+name mdwtools
+category Package
+revision 15878
+shortdesc Miscellaneous tools by Mark Wooding.
+longdesc This collection of tools includes: - support for short commands
+longdesc starting with @, - macros to sanitise the OT1 encoding of the
+longdesc cmtt fonts; - a 'do after' command; - improved footnote
+longdesc support; - mathenv for various alignment in maths; - list
+longdesc handling; - mdwmath which adds some minor changes to LaTeX
+longdesc maths; - a rewrite of LaTeX's tabular and array environments; -
+longdesc verbatim handling; and - syntax diagrams.
+containersize 19088
+containermd5 2c2c7a8faaa393f55f95e1314c2d6d42
+doccontainersize 1605468
+doccontainermd5 b10f414dc4b274713fa84a94ba061909
+srccontainersize 104788
+srccontainermd5 0d011b303467fe0bbaaa297781836b72
+runfiles size=31
+ texmf-dist/tex/latex/mdwtools/at.sty
+ texmf-dist/tex/latex/mdwtools/cmtt.sty
+ texmf-dist/tex/latex/mdwtools/doafter.sty
+ texmf-dist/tex/latex/mdwtools/footnote.sty
+ texmf-dist/tex/latex/mdwtools/mTTcmtt.fd
+ texmf-dist/tex/latex/mdwtools/mTTenc.def
+ texmf-dist/tex/latex/mdwtools/mathenv.sty
+ texmf-dist/tex/latex/mdwtools/mdwlist.sty
+ texmf-dist/tex/latex/mdwtools/mdwmath.sty
+ texmf-dist/tex/latex/mdwtools/mdwtab.sty
+ texmf-dist/tex/latex/mdwtools/sverb.sty
+ texmf-dist/tex/latex/mdwtools/syntax.sty
+catalogue-ctan /macros/latex/contrib/mdwtools
+catalogue-date 2008-06-23 17:43:34 +0200
+catalogue-license gpl
+catalogue-version 1.05.4
